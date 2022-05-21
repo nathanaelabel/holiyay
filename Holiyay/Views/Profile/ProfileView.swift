@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ProfileView: View {
-    @EnvironmentObject var destinationData: DestinationData
+    @EnvironmentObject var holidayData: ModelData
     @State private var editProfile = false
     
     var profile: Profile
@@ -19,14 +19,6 @@ struct ProfileView: View {
                 .font(.title)
                 .fontWeight(.black)
                 .frame(maxHeight: .infinity, alignment: .top)
-            
-//            ProfileSummary(profile: Profile.default)
-//            Text("First Name: \(profile.firstName)")
-//            Text("Last Name: \(profile.lastName)")
-//            Text("Country of Domicile: \(profile.country)")
-//            Text("Gender: \(profile.gender)")
-//            Text("Age: \(profile.age)")
-            
                 .toolbar {
                     Button {
                         editProfile.toggle()
@@ -34,10 +26,10 @@ struct ProfileView: View {
                         Label("Edit Profile", systemImage: "pencil")
                     }
                 }
-            //                .sheet(isPresented: $editProfile) {
-            //                    ProfileEdit()
-            //                        .environmentObject(destinationData)
-            //                }
+//                .sheet(isPresented: $editProfile) {
+//                    ProfileEdit()
+//                        .environmentObject(destinationData)
+//                }
         }
     }
 }
