@@ -52,6 +52,9 @@
 		CE1D7B4C283C63AF00CEA12F /* Holiyay */ = {
 			isa = PBXGroup;
 			children = (
+				CE1D7B60283C661200CEA12F /* Models */,
+				CE1D7B5E283C65E200CEA12F /* Resources */,
+				CE1D7B5F283C65EF00CEA12F /* Views */,
 				CE1D7B4D283C63AF00CEA12F /* HoliyayApp.swift */,
 				CE1D7B4F283C63AF00CEA12F /* ContentView.swift */,
 				CE1D7B51283C63B100CEA12F /* Assets.xcassets */,
@@ -67,6 +70,27 @@
 				CE1D7B54283C63B100CEA12F /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		CE1D7B5E283C65E200CEA12F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		CE1D7B5F283C65EF00CEA12F /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		CE1D7B60283C661200CEA12F /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
