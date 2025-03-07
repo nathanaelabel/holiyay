@@ -1,15 +1,37 @@
-# Holiyay
-> Assesment for Learning 4 Advanced Mobile Application Development 2021 - 2022 Genap (Semester 4) Informatika Universitas Ciputra Surabaya.
+# 🎊 Holiyay  
 
-### 👨‍💻 Tentang Pengembang
-0706012010029 - [Nathanael Abel Arianto](https://bit.ly/nathanaelabel)
+Plan your vacation now with **Holiyay**, available on **iOS**!  
 
-### 📱 Tentang Aplikasi
-Holiyay adalah aplikasi seluler berbasis iOS yang diciptakan untuk membantu perencanaan berlibur melalui pemilihan destinasi wisata yang ingin dikunjungi dan menentukan waktu spesifik (hari, tanggal, bulan, dan tahun) kunjungan. Aplikasi ini menampilkan destinasi wisata pilihan yang menakjubkan dari berbagai negara.
+---  
 
-### 🎥 Demonstrasi Aplikasi
-<p>YouTube - https://youtu.be/00ltF-aJFmU </p>
+## 🧑‍💻 Developed for  
+**Advanced Mobile Application Development** course assignment.  
 
----
+---  
 
-<p align="center"> &copy; 2022 Archotech</p>
+## 📖 About the Project  
+**Holiyay** is an iOS mobile application designed to help users plan their vacations. The app allows users to select vacation destinations they wish to visit and specify the exact dates (day, month, year) for their trips. It features a curated list of amazing travel destinations from around the world, making it easy for users to find their next adventure.
+
+---  
+
+## 🛠️ Technologies Used  
+- **iOS Development** (Swift, Xcode)  
+- **UI Design** (UIKit)  
+- **Backend** (If applicable, mention if used)  
+
+---  
+
+## 🚀 Features  
+- **Select vacation destinations** from a list of curated locations.  
+- **Set specific travel dates** (day, month, year) for the trip.  
+- **Discover beautiful destinations** from different countries.  
+
+---  
+
+## 🎥 Application Demo  
+Check out the application demonstration on YouTube:  
+[Holiyay Demo Video](https://youtu.be/00ltF-aJFmU)
+
+---  
+
+📌 **Note**: This project was developed for academic purposes and is not actively maintained.  
