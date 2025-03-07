@@ -15,9 +15,9 @@ Plan your vacation now with **Holiyay**, available on **iOS**!
 ---  
 
 ## 🛠️ Technologies Used  
-- **iOS Development** (Swift, Xcode)  
-- **UI Design** (UIKit)  
-- **Backend** (If applicable, mention if used)  
+- **Language**: Swift 
+- **Framework**: SwiftUI 
+- **Environment**: Xcode 
 
 ---  
 
